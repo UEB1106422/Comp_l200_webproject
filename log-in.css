@@ -1,0 +1,55 @@
+.img-container{
+    display: inline-block;
+    margin-top: 180px;
+    margin-left: 250px;
+    
+}
+.image{
+    border-radius: 18px;
+    width: 600px;
+}
+.forms{
+    display: inline-block;
+    margin-left: 50px;
+}
+.img-2{
+    width: 150px;
+    margin-left: 60px;
+}
+.input-1,
+.input-2{
+    width: 300px;
+    height: 30px;
+    border-radius: 8px;
+
+}
+.log-in-button{
+    width: 310px;
+    height: 35px;
+    background-color: rgb(37, 54, 178);
+    border-radius: 8px;
+    border: none;
+    font-weight: bold;
+    color: whitesmoke;
+    transition: 0.5s;
+}
+.log-in-button:hover{
+    cursor: pointer;
+    background-color: rgb(27, 56, 120);
+}
+.Portal-text{
+    margin-left: 50px;
+}
+.forget{
+    margin-left: 80px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.link{
+    text-decoration: none;
+    color: azure;
+    font-weight: bold;
+}
